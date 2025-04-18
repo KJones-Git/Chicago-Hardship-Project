@@ -1,5 +1,10 @@
 # **Chicago Hardship Index Analysis**
 
+<div align="center">
+  <img src="https://github.com/KJones-Git/Chicago-Hardship-Project/blob/014f4154fc28c218db55f7893ea573bbe8cb2f82/chicago_hardship.jpeg?raw=true" alt="Chicago Hardship Project" width="750"/>
+</div>
+
+
 ## **Project Overview**
 This project analyzes socioeconomic factors influencing hardship levels across Chicago's different neighborhoods. The goal is to identify which parameters had the most influence on the **Hardship Index** and to classify neighborhoods into **high** and **low hardship** categories using **Random Forest Classification**.
 
